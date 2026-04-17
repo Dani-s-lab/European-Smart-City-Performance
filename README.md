@@ -1,4 +1,4 @@
-# European-Smart-City-Performance
+# 🏙️ European Smart City Performance
 Benchmarking, drivers and hidden value across 65 cities
 
 ## 📊 Overview
@@ -42,7 +42,7 @@ This reinforces the idea that **structural quality and citizen‑centric policie
 The Smart City Index generally aligns with city performance, with an average deviation of –0.78 among underrated cities.  
 However, one city stands out as significantly undervalued, suggesting that its strengths are not fully captured by the index and may represent hidden potential.
 
-### Summary
+### 📝 Summary
 Across all dashboards, a consistent pattern emerges: economic wealth matters, but it is not the main engine of smart‑city performance.  
 Purchasing Power proves more informative than the Economy driver, suggesting that what truly counts is the balance between income levels and cost of living rather than raw economic strength.
 
