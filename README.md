@@ -18,6 +18,16 @@ At the micro level, it evaluates whether strong results are driven by economic w
 The original dataset includes a global collection of smart‑city indicators.  
 For this project, only the European cities contained in the dataset were selected, resulting in a final sample of 65 cities.
 
+## 🧱 Driver Definitions
+To better interpret the dashboards, the Smart City Index drivers are defined as follows:
+
+- **People:** education, cultural diversity and social inclusion.  
+- **Environment:** environmental sustainability, pollution monitoring and energy‑management initiatives.  
+- **Government:** transparency, digital public services and effectiveness of local administration.  
+- **Mobility:** transport efficiency, infrastructure, accessibility and ICT integration.  
+- **Economy:** productivity, economic vitality and support for entrepreneurship and innovation.  
+- **Smart City Index:** aggregate score combining all drivers into a unified performance metric.
+
 ## 🧭 Methodology
 Only city‑level indicators were included to ensure consistent comparison across all selected cities.
 
