@@ -70,7 +70,7 @@ The project follows an end‑to‑end analytical pipeline integrating data clean
 
 ### 1) Data Access & Cleaning (DBeaver)
 Two separate datasets were explored and cleaned in DBeaver:  
-- the Smart City Index database  
+- the Smart Cities Index datasets  
 - the World Economic Data database (containing the Purchasing Power indicator)
 
 The two sources were merged to align city‑level information, but only the Purchasing Power variable was retained from the World Economic Data dataset.  
@@ -122,3 +122,23 @@ Overview of dominant drivers, driver gaps and performance balance across the top
 Identification of cities whose Smart City Index score underestimates their actual driver performance.  
 ![Dashboard 4](images/Smart_City_Underrated_Cities.png)
 
+## 🚀 Next Steps  
+If additional data becomes available, the analysis could be extended by:
+
+- **Time‑series analysis** — Exploring how Smart City Index scores evolve over multiple years.  
+- **Additional indicators** — Integrating new drivers or complementary socio‑economic variables to enrich the analytical depth.
+
+These enhancements would provide a broader perspective while keeping the current analytical framework intact.
+
+## 📜 License & Attribution  
+The datasets used in this project are sourced from Kaggle and released under the **CC0 – Public Domain** license by their respective authors.
+
+- **World Economic Data** — Contains national‑level Purchasing Power indicators.  
+  Source: Kaggle  
+  License: CC0 – Public Domain  
+  Reference year: ~4 years ago  
+
+- **Smart Cities Index Datasets** — Includes city‑level smart‑city performance indicators across five drivers.  
+  Source: Kaggle  
+  License: CC0 – Public Domain  
+  Reference year: ~5 years ago  
