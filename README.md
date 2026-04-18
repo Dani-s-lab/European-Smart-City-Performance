@@ -102,3 +102,22 @@ Figma was used to refine the visual presentation of the project, including:
 - the project cover for GitHub  
 
 This ensured a consistent, modern and premium aesthetic across all project assets.
+
+## 📸 Dashboard Gallery  
+A curated selection of the four dashboards developed in Power BI, each illustrating a different analytical perspective on European smart‑city performance.
+
+### 1) Smart City Index vs Purchasing Power  
+Comparison between the highest‑ and lowest‑ranked cities, showing how Purchasing Power aligns with Smart City Index scores.  
+![Dashboard 1](images/Smart City Index vs Purchasing Power.png)
+
+### 2) Smart City Driver Benchmark (Top 10)  
+Cross‑driver comparison for the top 10 cities, highlighting differences in structural performance across People, Environment, Government, Mobility and Economy.  
+![Dashboard 2](images/Smart City Driver Benchmark.png)
+
+### 3) Smart City Driver Performance (Top 10)  
+Overview of dominant drivers, driver gaps and performance balance across the top‑ranked cities.  
+![Dashboard 3](images/Smart City Driver Performance.png)
+
+### 4) Smart City Underrated Cities  
+Identification of cities whose Smart City Index score underestimates their actual driver performance.  
+![Dashboard 4](images/Smart City Underrated Cities.png)
