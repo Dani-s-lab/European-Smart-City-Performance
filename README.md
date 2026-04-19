@@ -1,6 +1,10 @@
 # 🏙️ European Smart City Performance
 Benchmarking, drivers and hidden value across 65 cities
 
+<p align="center">
+  <img src="images/Smart_City_Cover.png" width="100%">
+</p>
+
 ## 📊 Overview
 This project analyzes the performance of 65 European smart cities through a combined macro and micro perspective.  
 The main objective is to identify where cities can improve by examining the gaps between performance drivers and understanding what top‑ranked cities do differently.
