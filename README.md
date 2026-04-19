@@ -68,10 +68,15 @@ Underperforming cities can improve by focusing on these structural drivers, even
 ## 🧭 Workflow
 The project follows an end‑to‑end analytical pipeline integrating data cleaning, validation, dashboard development and visual design.
 
+### 🔄 Workflow Diagram
+![Workflow](images/Diagram_Smart_City.png)
+
 ### 1) Data Access & Cleaning (DBeaver)
 Two separate datasets were explored and cleaned in DBeaver:  
-- the Smart Cities Index datasets  
+- the Smart Cities Index dataset 
 - the World Economic Data database (containing the Purchasing Power indicator)
+
+![DBeaver](images/Dbeaver_Smart_City.png)
 
 The two sources were merged to align city‑level information, but only the Purchasing Power variable was retained from the World Economic Data dataset.  
 After the merge, the dataset was filtered to include only European cities, ensuring consistency and comparability across indicators.
@@ -122,6 +127,10 @@ Overview of dominant drivers, driver gaps and performance balance across the top
 Identification of cities whose Smart City Index score underestimates their actual driver performance.  
 ![Dashboard 4](images/Smart_City_Underrated_Cities.png)
 
+### 5) Smart City Distribution (Plotly)
+Exploratory distribution of Smart City Index scores to highlight variability across European cities.
+![Plotly](images/Smart_City_Distribution.png)
+
 ## 🚀 Next Steps  
 If additional data becomes available, the analysis could be extended by:
 
@@ -138,7 +147,7 @@ The datasets used in this project are sourced from Kaggle and released under the
   License: CC0 – Public Domain  
   Reference year: ~4 years ago  
 
-- **Smart Cities Index Datasets** — Includes city‑level smart‑city performance indicators across five drivers.  
+- **Smart Cities Index Dataset** — Includes city‑level smart‑city performance indicators across five drivers.  
   Source: Kaggle  
   License: CC0 – Public Domain  
   Reference year: ~5 years ago  
