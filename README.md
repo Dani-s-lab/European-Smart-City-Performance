@@ -113,26 +113,26 @@ Figma was used to refine the visual presentation of the project, including:
 This ensured a consistent, modern and premium aesthetic across all project assets.
 
 ## 📸 Dashboard Gallery  
-A curated selection of the four dashboards developed in Power BI, each illustrating a different analytical perspective on European smart‑city performance.
+A curated selection of visual outputs developed for the project, including four Power BI dashboards and one Plotly exploratory chart.
 
 ### 1) Smart City Index vs Purchasing Power  
-Comparison between the highest‑ and lowest‑ranked cities, showing how Purchasing Power aligns with Smart City Index scores.  
+Comparison between the highest‑ and lowest‑ranked cities, showing how Purchasing Power aligns with Smart City Index scores. (Power BI)  
 ![Dashboard 1](images/Smart_City_IndexVSPurchasing_Power.png)
 
 ### 2) Smart City Driver Benchmark (Top 10)  
-Cross‑driver comparison for the top 10 cities, highlighting differences in structural performance across People, Environment, Government, Mobility and Economy.  
+Cross‑driver comparison for the top 10 cities, highlighting differences in structural performance across People, Environment, Government, Mobility and Economy. (Power BI)  
 ![Dashboard 2](images/Smart_City_Driver_Benchmark.png)
 
 ### 3) Smart City Driver Performance (Top 10)  
-Overview of dominant drivers, driver gaps and performance balance across the top‑ranked cities.  
+Overview of dominant drivers, driver gaps and performance balance across the top‑ranked cities. (Power BI)  
 ![Dashboard 3](images/Smart_City_Driver_Performance.png)
 
 ### 4) Smart City Underrated Cities  
-Identification of cities whose Smart City Index score underestimates their actual driver performance.  
+Identification of cities whose Smart City Index score underestimates their actual driver performance. (Power BI)  
 ![Dashboard 4](images/Smart_City_Underrated_Cities.png)
 
-### 5) Smart City Distribution (Plotly)
-Exploratory distribution of Smart City Index scores to highlight variability across European cities.
+### 5) Smart City Distribution 
+Exploratory distribution of Smart City Index scores to highlight variability across European cities. (Plotly)
 ![Plotly](images/Smart_City_Distribution_.png)
 
 ## 🚀 Next Steps  
