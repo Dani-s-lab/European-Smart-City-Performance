@@ -80,8 +80,6 @@ Two separate datasets were explored and cleaned in DBeaver:
 - the Smart Cities Index dataset 
 - the World Economic Data database (containing the Purchasing Power indicator)
 
-![DBeaver](images/Dbeaver_Smart_City.png)
-
 The two sources were merged to align city‑level information, but only the Purchasing Power variable was retained from the World Economic Data dataset.  
 After the merge, the dataset was filtered to include only European cities, ensuring consistency and comparability across indicators.
 
