@@ -133,7 +133,7 @@ Identification of cities whose Smart City Index score underestimates their actua
 
 ### 5) Smart City Distribution (Plotly)
 Exploratory distribution of Smart City Index scores to highlight variability across European cities.
-![Plotly](images/Smart_City_Distribution.png)
+![Plotly](images/Smart_City_Distribution_.png)
 
 ## 🚀 Next Steps  
 If additional data becomes available, the analysis could be extended by:
