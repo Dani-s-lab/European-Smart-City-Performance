@@ -25,7 +25,7 @@ To better interpret the dashboards, the Smart City Index drivers are defined as 
 - Filtered the dataset to include only the 65 European cities available in the source, ensuring a consistent and comparable analytical scope.
 - Included only city‑level indicators and excluded the Living driver after confirming it was reported at national rather than city level.
 - Merged the Smart Cities Index dataset with Purchasing Power from the World Economic Data (Kaggle) to support exploratory analysis.
-- Used Purchasing Power exclusively for a scatter‑plot comparison, as it is available only at national level and refers to a slightly different reference year.
+- Used Purchasing Power only for a scatter‑plot comparison because it is national‑level data from a different reference year.
 - Focused the analysis on cross‑city performance across the remaining drivers to identify structural gaps, outliers and improvement opportunities.
 
 ## 🔑 Key Insights
