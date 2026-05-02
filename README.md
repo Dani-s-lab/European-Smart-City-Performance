@@ -29,31 +29,21 @@ To better interpret the dashboards, the Smart City Index drivers are defined as 
 - Focused the analysis on cross‑city performance across the remaining drivers to identify structural gaps, outliers and improvement opportunities.
 
 ## 🔑 Key Insights
-The dashboards reveal a coherent set of patterns explaining why some European cities lead the Smart City Index while others lag behind.
 
-### 1) Smart City Index vs Purchasing Power (Top 10 vs Bottom 10)
-Purchasing Power influences performance, but only to a limited extent.  
-Top‑ranked cities generally score above average economically, yet the #1 city has a lower Purchasing Power than the #2.  
-This suggests that economic strength supports—but does not determine—smart‑city leadership.
+**1) Smart City Index vs Purchasing Power**  
+Purchasing Power has only a limited influence on performance. Top cities score well economically, yet the #1 city has lower Purchasing Power than the #2, showing that economic strength supports—but does not determine—smart‑city leadership.
 
-### 2) Benchmark of Drivers (Top 10)
-Among the top cities, People is the strongest driver, while Economy is the weakest.  
-Combined with the previous insight, this indicates that high performance is driven more by social, governance and mobility factors than by pure economic wealth.  
-Notably, Mobility appears above average in 4 of the top 5 cities, highlighting it as a critical enabler that may indirectly strengthen other non‑economic drivers.
+**2) Benchmark of Drivers (Top 10)**  
+Among top cities, **People** is consistently the strongest driver, while **Economy** is the weakest. Mobility stands out in 4 of the top 5 cities, acting as an enabler that reinforces other non‑economic drivers.
 
-### 3) Driver Performance (Top 10)
-Performance gaps are balanced across drivers, but the most frequent top driver is People (5 out of 10 cities), followed by Environment and Governance (2 each).  
-Economy is the top driver in only one city.  
-This reinforces the idea that **structural quality and citizen‑centric policies matter more than national wealth**.
+**3) Driver Performance (Top 10)**  
+Performance gaps are balanced, but **People** is the most frequent top driver (5 of 10 cities), followed by Environment and Governance. Economy leads in only one city, confirming that structural quality and citizen‑centric policies matter more than national wealth.
 
-### 4) Underrated Cities
-The Smart City Index generally aligns with city performance, with an average deviation of –0.78 among underrated cities.  
-However, one city stands out as significantly undervalued, suggesting that its strengths are not fully captured by the index and may represent hidden potential.
+**4) Underrated Cities**  
+The Smart City Index generally aligns with city performance (average deviation –0.78), but one city is significantly undervalued, suggesting hidden potential not fully captured by the index.
 
-### 5) Smart City Distribution
-Despite an equal split around the median, the distribution is asymmetric.
-Higher‑performing cities show more consistent Smart City Index scores, suggesting similar levels of digital maturity and investment.
-Lower‑performing cities display wider variability, indicating uneven development strategies, infrastructure gaps or differing policy priorities.
+**5) Smart City Distribution**  
+The distribution is asymmetric: high‑performing cities show consistent scores, while lower‑performing ones vary widely, indicating uneven development strategies and infrastructure gaps.
 
 ## 🔄 Workflow Diagram
 ![Workflow](images/Diagram_Smart_City.png)
