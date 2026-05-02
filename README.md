@@ -6,21 +6,10 @@ Benchmarking, drivers and hidden value across 65 cities
 </p>
 
 ## 📊 Overview
-This project analyzes the performance of 65 European smart cities through a combined macro and micro perspective.  
-The main objective is to identify where cities can improve by examining the gaps between performance drivers and understanding what top‑ranked cities do differently.
+This project analyzes the performance of 65 European smart cities to understand what differentiates leading and lagging cities in the Smart City Index.  
+The analysis compares performance across the five key drivers (People, Government, Environment, Mobility, Economy), evaluates the role of Purchasing Power, and identifies the weakest drivers that represent the most strategic areas for improvement.
 
-At the macro level, the analysis highlights which cities lead the Smart City Index and which ones lag behind.  
-At the micro level, it evaluates whether strong results are driven by economic wealth or by other structural and qualitative factors, and identifies the weakest drivers that represent the most strategic areas for improvement.
-
-## 🎯 Objectives
-- Understand what differentiates leading and lagging European smart cities in the Smart City Index.  
-- Compare performance across key drivers such as People, Government, Environment, Mobility and Economy.  
-- Explore the relationship between Purchasing Power and smart‑city performance.  
-- Provide a clear, visual benchmark to support data‑driven discussions on urban development.
-
-## 📂 Data Source
-The original dataset includes a global collection of smart‑city indicators.  
-For this project, only the European cities contained in the dataset were selected, resulting in a final sample of 65 cities.
+The goal is to provide a clear, visual benchmark that supports data‑driven discussions on urban development and highlights where cities can focus to close structural gaps.
 
 ## 🧱 Driver Definitions
 To better interpret the dashboards, the Smart City Index drivers are defined as follows:
@@ -33,12 +22,11 @@ To better interpret the dashboards, the Smart City Index drivers are defined as 
 - **Smart City Index:** aggregate score combining all drivers into a unified performance metric.
 
 ## 🧭 Methodology
-Only city‑level indicators were included to ensure consistent comparison across all selected cities.
-
-The Living driver was excluded after verifying that its values were identical for cities within the same country, indicating that it was reported at national rather than city level.
-
-The Purchasing Power variable was extracted from the World Economic Data dataset.  
-Although the two datasets refer to slightly different years, the gap is minimal and the variable was used only for an exploratory scatter plot, not for driver comparison.
+- Filtered the dataset to include only the 65 European cities available in the source, ensuring a consistent and comparable analytical scope.
+- Included only city‑level indicators and excluded the Living driver after confirming it was reported at national rather than city level.
+- Merged the Smart Cities Index dataset with Purchasing Power from the World Economic Data (Kaggle) to support exploratory analysis.
+- Used Purchasing Power exclusively for a scatter‑plot comparison, as it is available only at national level and refers to a slightly different reference year.
+- Focused the analysis on cross‑city performance across the remaining drivers to identify structural gaps, outliers and improvement opportunities.
 
 ## 🔑 Key Insights
 The dashboards reveal a coherent set of patterns explaining why some European cities lead the Smart City Index while others lag behind.
@@ -80,41 +68,6 @@ The project follows an end‑to‑end analytical pipeline integrating data clean
 ### 🔄 Workflow Diagram
 ![Workflow](images/Diagram_Smart_City.png)
 
-### 1) Data Access & Cleaning (DBeaver)
-Two separate datasets were explored and cleaned in DBeaver:  
-- the Smart Cities Index dataset 
-- the World Economic Data database (containing the Purchasing Power indicator)
-
-The two sources were merged to align city‑level information, but only the Purchasing Power variable was retained from the World Economic Data dataset.  
-After the merge, the dataset was filtered to include only European cities, ensuring consistency and comparability across indicators.
-
-### 2) Exploratory Analysis & Validation (Python – Jupyter Notebook)
-Python was used to perform a structured validation of the merged dataset, including:  
-- structural checks  
-- consistency verification across drivers  
-- exploratory analysis to confirm data quality  
-
-Several exploratory charts were produced, but only the distribution plot was included in the final report to maintain clarity and avoid redundancy.
-
-### 3) Data Modeling & Dashboard Development (Power BI)
-Cleaned and validated data was imported into Power BI to build four dashboards, each focusing on a different analytical perspective:
-
-- Smart City Index vs Purchasing Power (Top 10 vs Bottom 10)  
-- Benchmark of Drivers (Top 10)  
-- Driver Performance (Top 10)  
-- Underrated Cities Analysis  
-
-These dashboards were designed to highlight structural differences between leading and lagging European cities.
-
-### 4) Visual Design & Layout Refinement (Figma)
-Figma was used to refine the visual presentation of the project, including:  
-- the workflow diagram  
-- the dashboard mockup  
-- spacing, alignment and visual hierarchy  
-- the project cover for GitHub  
-
-This ensured a consistent, modern and premium aesthetic across all project assets.
-
 ## 📸 Dashboard Gallery  
 A curated selection of visual outputs developed for the project, including four Power BI dashboards and one Plotly exploratory chart.
 
@@ -147,7 +100,6 @@ If additional data becomes available, the analysis could be extended by:
 These enhancements would provide a broader perspective while keeping the current analytical framework intact.
 
 ## 📜 License & Attribution  
-The datasets used in this project are sourced from Kaggle and released under the **CC0 – Public Domain** license by their respective authors.
 
 - **World Economic Data** — Contains national‑level Purchasing Power indicators.  
   Source: Kaggle  
