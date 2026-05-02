@@ -55,13 +55,6 @@ Despite an equal split around the median, the distribution is asymmetric.
 Higher‑performing cities show more consistent Smart City Index scores, suggesting similar levels of digital maturity and investment.
 Lower‑performing cities display wider variability, indicating uneven development strategies, infrastructure gaps or differing policy priorities.
 
-### 📝 Summary
-Across all dashboards, a consistent pattern emerges: economic wealth matters, but it is not the main engine of smart‑city performance.  
-Purchasing Power proves more informative than the Economy driver, suggesting that what truly counts is the balance between income levels and cost of living rather than raw economic strength.
-
-Cities that lead the index combine this economic equilibrium with strong qualitative drivers especially People, Environment and Mobility which reinforce each other and sustain long‑term performance.  
-Underperforming cities can improve by focusing on these structural drivers, even without major economic expansion.
-
 ## 🧭 Workflow
 The project follows an end‑to‑end analytical pipeline integrating data cleaning, validation, dashboard development and visual design.
 
