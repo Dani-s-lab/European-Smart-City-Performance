@@ -55,14 +55,10 @@ Despite an equal split around the median, the distribution is asymmetric.
 Higher‑performing cities show more consistent Smart City Index scores, suggesting similar levels of digital maturity and investment.
 Lower‑performing cities display wider variability, indicating uneven development strategies, infrastructure gaps or differing policy priorities.
 
-## 🧭 Workflow
-The project follows an end‑to‑end analytical pipeline integrating data cleaning, validation, dashboard development and visual design.
-
-### 🔄 Workflow Diagram
+## 🔄 Workflow Diagram
 ![Workflow](images/Diagram_Smart_City.png)
 
 ## 📸 Dashboard Gallery  
-A curated selection of visual outputs developed for the project, including four Power BI dashboards and one Plotly exploratory chart.
 
 ### 1) Smart City Index vs Purchasing Power  
 Comparison between the highest‑ and lowest‑ranked cities, showing how Purchasing Power aligns with Smart City Index scores. (Power BI)  
