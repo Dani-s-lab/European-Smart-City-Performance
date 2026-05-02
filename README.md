@@ -78,7 +78,7 @@ If additional data becomes available, the analysis could be extended by:
 
 These enhancements would provide a broader perspective while keeping the current analytical framework intact.
 
-## 📜 License & Attribution  
+## 📁 Data Source & License 
 
 - **World Economic Data** — Contains national‑level Purchasing Power indicators.  
   Source: Kaggle  
