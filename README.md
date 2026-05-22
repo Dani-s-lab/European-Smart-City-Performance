@@ -1,4 +1,5 @@
 # 🏙️ European Smart City Performance
+
 Benchmarking, drivers and hidden value across 65 cities
 
 <p align="center">
@@ -6,12 +7,14 @@ Benchmarking, drivers and hidden value across 65 cities
 </p>
 
 ## 📊 Overview
+
 This project analyzes the performance of 65 European smart cities to understand what differentiates leading and lagging cities in the Smart City Index.  
 The analysis compares performance across the five key drivers (People, Government, Environment, Mobility, Economy), evaluates the role of Purchasing Power, and identifies the weakest drivers that represent the most strategic areas for improvement.
 
 The goal is to provide a clear, visual benchmark that supports data‑driven discussions on urban development and highlights where cities can focus to close structural gaps.
 
 ## 🧱 Driver Definitions
+
 To better interpret the dashboards, the Smart City Index drivers are defined as follows:
 
 - **People:** education, cultural diversity and social inclusion.  
@@ -46,6 +49,7 @@ The Smart City Index generally aligns with city performance (average deviation �
 The distribution is asymmetric: high‑performing cities show consistent scores, while lower‑performing ones vary widely, indicating uneven development strategies and infrastructure gaps.
 
 ## 🔄 Workflow Diagram
+
 ![Workflow](images/Diagram_Smart_City.png)
 
 ## 📸 Dashboard Gallery  
@@ -71,6 +75,7 @@ Exploratory distribution of Smart City Index scores to highlight variability acr
 ![Plotly](images/Smart_City_Distribution_.png)
 
 ## 🚀 Next Steps  
+
 If additional data becomes available, the analysis could be extended by:
 
 - **Time‑series analysis** — Exploring how Smart City Index scores evolve over multiple years.  
@@ -78,7 +83,7 @@ If additional data becomes available, the analysis could be extended by:
 
 These enhancements would provide a broader perspective while keeping the current analytical framework intact.
 
-## 📁 Data Source & License 
+## 📦 Dataset
 
 - **World Economic Data** — Contains national‑level Purchasing Power indicators.  
   Source: Kaggle  
