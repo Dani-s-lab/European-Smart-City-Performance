@@ -2,10 +2,6 @@
 
 Benchmarking, drivers and hidden value across 65 cities
 
-<p align="center">
-  <img src="images/Smart_City_Cover.png" width="100%">
-</p>
-
 ## 📊 Overview
 
 This project analyzes the performance of 65 European smart cities to understand what differentiates leading and lagging cities in the Smart City Index.  
